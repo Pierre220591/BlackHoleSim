@@ -1,0 +1,8 @@
+# Dépendances système requises pour la compilation du projet (macOS / Apple Silicon)
+# Installation recommandée via Homebrew : brew install cmake glfw glew glm
+
+cmake>=3.11
+glfw>=3.3
+glew>=2.1
+glm>=0.9.9
+clang++>=11.0 (support C++11 requis)
